@@ -94,3 +94,7 @@ class LoginActivity : AppCompatActivity(), AnkoLogger {
 
 其实效率也不是很高。。
 
+<br>
+
+Java 代码转换为 Kotlin
+> ctrl +alt + shift + k
